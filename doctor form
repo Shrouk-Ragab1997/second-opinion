@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<link rel="stylesheet" href="doctor form.css"/>
+<title>Untitled Document</title>
+</head>
+
+<body>
+	<header> 
+		<h2> fill form for registration </h2>
+	</header>
+	 
+	<article> 
+			<p> Doctor information </p>
+			<section> 
+				<span> first name: </span> <input type="text"/>
+				<span> last name: </span> <input type="text"/>
+				<span> Email: </span> <input type="email" />
+				<span> mobile phone:</span> <input type="tel"/>
+				<span> Specialization: </span> 
+				<select>
+					<option > Specialization1 </option>
+					<option> Specialization2 </option>
+					<option > Specialization3 </option>
+					<option> Specialization4 </option>
+				</select>
+				 
+		
+	            <br/>
+				
+				<span> upload CV </span> <input type="file"/>
+				<br/>
+				
+					<br/>
+				<input type="submit" value="send"/>                
+			</section>
+	</article>
+</body>
+</html>
