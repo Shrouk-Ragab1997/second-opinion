@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+header h2{
+	
+	text-align: center; color: indigo; font-size: 30px
+}
+article{ border: 1px solid; width: 50%; margin-left: 50px; background-color: lemonchiffon;}
+
+section{margin-left: 20px;}
+
+span {
+	font-size: 20px; margin-bottom: 20px;padding: 5px;
+}
+
+input { display: block; margin-bottom: 20px;}
+p {
+	font-weight: 200;
+	font-size: 30px;
+	margin-left: 20px;
+	color: darkblue;
+	
+	
+}
+input[type="submit"] {
+	text-align: center;
+	width: 20%;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	border-radius: 20px;
+	margin-top: 20px;
+		
