@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+div{
+	border: 1px solid; width: 20%; margin: 50px; background-color: lemonchiffon;
+	text-align: center;
+	border-radius: 2px;
+}
+h3{
+	display: block;
+	font-size: 100;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+input{
+	display: block;
+	text-align: center;
+	margin: auto;
+	
+}
