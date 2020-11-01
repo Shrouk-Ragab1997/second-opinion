@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<link rel="stylesheet" href="scan form.css"/>
+<title>Untitled Document</title>
+</head>
+
+<body>
+	<header> 
+		<h2> fill form for registration </h2>
+	</header>
+	 
+	<article> 
+			<p> Scan center information </p>
+			<section> 
+				<span> center name: </span> <input type="text"/>
+				<span> center address: </span> <input type="text"/>
+				<span> Email: </span> <input type="email" />
+				<span> mobile phone:</span> <input type="tel"/>
+				<span> Specializations: </span> <br/>
+				<input type="checkbox"  class="check" id="a"/><label for="a">Specialization1</label>
+				<br/>
+				<input type="checkbox"  class="check" id="b"/><label for="b">Specialization2</label>
+				<br/>
+			    <input type="checkbox"  class="check" id="c"/><label for="c">Specialization3</label>
+				<br/>
+		        <input type="checkbox"  class="check" id="d"/><label for="d">Specialization4</label>
+	            
+				
+				
+					<br/>
+				<input type="submit" value="send"/>                
+			</section>
+	</article>
+</body>
+</html>
