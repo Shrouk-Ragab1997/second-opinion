@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+div{
+	border: 1px solid; width: 30%; margin: 50px; background-color: lemonchiffon;
+	padding: 20px;
+	border-radius: 2px;
+	display: block;
+}
+input{
+	display: block;
+	margin: 10px;
+}
