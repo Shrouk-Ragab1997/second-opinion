@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+header {
+	height: 150px;
+	margin-left: 3px;
+	margin-bottom: 30;
+	position: fixed;
+	
+}
+header form button{
+	
+	width: auto;
+	padding: 3px;
+	font-size: 20px;
+	background-color:#5564B9;
+	margin: 10px;
+	border: 1px solid #CCC8E1;
+	border-radius: 7px;
+	margin-top: 30px;
+	color: white;
+	
+	
+		
+	
+}
+button:hover
+
+{
+	text-decoration: underline;
+	
+	
+}
+.search{
+	font-size: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	margin-right: 30px;
+	float: left;
+		
+}
+form {
+	align-content:stretch;
+	margin-left: 500px;
+	display: inline;
+	margin-top: 20px;
+	height: 150px;
+    margin-top: auto;
+	
+	
+		
+}
+img{
+	height: 150px;
+	display: inline;
+	margin-right: 80px;
+	float: left
+}
+
+li {
+	font-size: 20px;
+	
+}
+a{
+	color: white;
+	text-decoration: none;
+	display: inline;
+}
+}.section1 {
+	background-color:white;
+	display: inline;
+}
+section ul li {
+	border-radius: 70px;
+	background-color: #3C5898;
+	display: inline;
+	padding: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 5px;
+
+	text-decoration:none;
+		
+		
+}
+section ul li:hover{
+	text-decoration: underline;
+}
